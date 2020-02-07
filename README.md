@@ -17,3 +17,8 @@ be in a file structure with separate directories for scripts, data and results l
 ----------------scripts   
 ----------------results  
 ----------------data  
+   
+   
+####Requirements:   
+- Python 3.6 and up  
+- (and these bioinf tools: BBDUK, PEAR, fastqc and sortmeRNA)
